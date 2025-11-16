@@ -1,0 +1,15 @@
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\bin\Debug\net9.0\secondhomework.exe
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\bin\Debug\net9.0\secondhomework.deps.json
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\bin\Debug\net9.0\secondhomework.runtimeconfig.json
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\bin\Debug\net9.0\secondhomework.dll
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\bin\Debug\net9.0\secondhomework.pdb
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.AssemblyInfoInputs.cache
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.AssemblyInfo.cs
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.csproj.CoreCompileInputs.cache
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.sourcelink.json
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.dll
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\refint\secondhomework.dll
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.pdb
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\secondhomework.genruntimeconfig.cache
+C:\c#  Classes\Itlaclasses\homework1\FirstHomeWork\secondhomework\obj\Debug\net9.0\ref\secondhomework.dll

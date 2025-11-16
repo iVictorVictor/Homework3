@@ -1,0 +1,14 @@
+C:\c#  Classes\homework1\Homeworkone\bin\Debug\net9.0\Homeworkone.exe
+C:\c#  Classes\homework1\Homeworkone\bin\Debug\net9.0\Homeworkone.deps.json
+C:\c#  Classes\homework1\Homeworkone\bin\Debug\net9.0\Homeworkone.runtimeconfig.json
+C:\c#  Classes\homework1\Homeworkone\bin\Debug\net9.0\Homeworkone.dll
+C:\c#  Classes\homework1\Homeworkone\bin\Debug\net9.0\Homeworkone.pdb
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.AssemblyInfoInputs.cache
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.AssemblyInfo.cs
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.csproj.CoreCompileInputs.cache
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.dll
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\refint\Homeworkone.dll
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.pdb
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\Homeworkone.genruntimeconfig.cache
+C:\c#  Classes\homework1\Homeworkone\obj\Debug\net9.0\ref\Homeworkone.dll
